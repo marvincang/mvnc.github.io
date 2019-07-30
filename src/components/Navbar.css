@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 8vh;
+}
+
+.buttonGroup > .MuiButton-text {
+  padding: 6px 16px;
+}
